@@ -5,3 +5,13 @@ p {
     line-height: 2.25em;
     letter-spacing: 3px;
 }
+
+.thought1 {
+    font-family: 'Shrikhand', cursive;
+}
+.thought2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.thought3 {
+    font-family: 'Galada', cursive;
+}
